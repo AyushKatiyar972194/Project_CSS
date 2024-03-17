@@ -1,1 +1,1 @@
-Photography sidebar functionality using css 
+Spotify Clone
